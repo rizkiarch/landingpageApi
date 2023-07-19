@@ -1,5 +1,5 @@
 
 
-#Frontend Nuxt Js
+Frontend Nuxt Js
 
-#Backend Laravel 10
+Backend Laravel 10
