@@ -1,5 +1,5 @@
-# landingpageApi
 
-###Frontend Nuxt Js
 
-###Backend Laravel 10
+#Frontend Nuxt Js
+
+#Backend Laravel 10
