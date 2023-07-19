@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.16.19",
+    "nuxt": "^3.6.3",
+    "nuxt-quasar-ui": "^2.0.4"
+  },
+  "dependencies": {
+    "@nuxtjs/composition-api": "^0.33.1",
+    "@quasar/extras": "^1.16.5",
+    "quasar": "^2.12.3",
+    "vue-toastification": "^1.7.14"
+  }
+}
